@@ -1,0 +1,6 @@
+framework module Pods_ChatWithLayerTrial {
+  umbrella header "Pods-ChatWithLayerTrial-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+PODS:
+  - LayerKit (0.17.7)
+  - NVActivityIndicatorView (2.3)
+
+DEPENDENCIES:
+  - LayerKit
+  - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  LayerKit: 9241eed42666fd5a73da90b99eeca17ada43103b
+  NVActivityIndicatorView: c7ef25ef527ab5e51b00322cb1ddd58681bcf2a3
+
+COCOAPODS: 0.39.0

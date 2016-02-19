@@ -1,5 +1,7 @@
 # ChatWithLayerTrial
-A trial swift project with LayerSDK for iOS. Will be buggy.
+A trial swift project with LayerSDK for iOS. 
+
+If you want to test this project, please replace the LQSLayerAppIDString constant in the LayerManager. 
 
 1-1 chat. 1-n chat.
 Login as any.
@@ -18,3 +20,4 @@ Updates Planned:
 1) Change from local notifications for updates to delegates. Will make life so much easier.
 2) Add options to delete and clear chats. 
 3) Try and check announcements. 
+4) Will Layer support Push automatically? Need to check.

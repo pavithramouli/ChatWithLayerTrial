@@ -10,7 +10,7 @@ import UIKit
 import LayerKit
 
 //Layer App ID from developer.layer.com
-let LQSLayerAppIDString = "layer:///apps/staging/19f0be3c-bdd8-11e5-8056-86c4000000b0"
+let LQSLayerAppIDString = "ADD_YOUR_LAYER_APP_ID_HERE"
 
 class LayerManager: NSObject,LYRClientDelegate,LYRQueryControllerDelegate {
     
